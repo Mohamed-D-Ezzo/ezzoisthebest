@@ -8,10 +8,10 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SoftWare+Engineer++Manual+Tester;Automation+Tester" alt="Typing SVG" /></a></p> 
-- 🏢 I'm a Software Engineer and Manual - Automation Tester
-- 👨‍💻 As a Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experiences in JavaScript, Selenium, Node.js, or anything related to web and mobile application testing.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 🏢 I'm a Software Engineer and Manual - Automation Tester <br>
+- 👨‍💻 As a Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.<br>
+- 💬 Ask me about my experiences in JavaScript, Selenium, Node.js, or anything related to web and mobile application testing.<br>
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.<br>
 
 
 ### Connect with Me :
